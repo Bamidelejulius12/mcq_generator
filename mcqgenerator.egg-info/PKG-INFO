@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.1
+Author: Bamidele Julius
+Author-email: babatundejulius911@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
